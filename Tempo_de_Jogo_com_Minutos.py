@@ -1,6 +1,3 @@
-from ctypes.wintypes import HDC
-
-
 H1= int(input("Informe a hora inicial:"))
 M1= int(input("Informe o minuto inicial:"))
 H2= int(input("Informe a hora de término:"))
