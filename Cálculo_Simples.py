@@ -7,4 +7,4 @@ v2= float(input("Informe o valor do produto 2:"))
 
 VF= float((v1*q1)+(v2*q2))
 
-print("Valor a Pagar: R$ %.2f" % (VF))
+print("Valor a Pagar: R$ %.2f" %(VF))
